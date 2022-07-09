@@ -1,6 +1,6 @@
-# fire_project
+# Social Media Flutter App
 
-A new Flutter project.
+A simple social media flutter app using Flutter Riverpod as state management and Firestore Database for authentication and data storage.
 
 ## Getting Started
 
