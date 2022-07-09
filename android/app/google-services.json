@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082127961239",
+    "project_id": "fir-newsocial-b639a",
+    "storage_bucket": "fir-newsocial-b639a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082127961239:android:b292ce0382af122063edd2",
+        "android_client_info": {
+          "package_name": "com.example.fire_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082127961239-7qffe952lvrp3ck87ua82t0iucrlb18e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27hJG6zGV9yCpKChdupZdBdwLgCpGx4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082127961239-7qffe952lvrp3ck87ua82t0iucrlb18e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
